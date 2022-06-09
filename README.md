@@ -34,7 +34,7 @@
 <img width="979" alt="image" src="https://user-images.githubusercontent.com/33338015/172829530-2a5fc4c7-1b55-4880-9786-92f6d1aacc3d.png">
 
 ### 4. Images and corresponding probability that predicted Right
-<img width="345" alt="image" src="https://user-images.githubusercontent.com/33338015/172829597-fed32ae4-f078-4c95-a91f-78af311eb8d2.png">
+<img width="387" alt="image" src="https://user-images.githubusercontent.com/33338015/172832244-c6f955df-2461-456b-b0dc-1a6e52c8ec33.png">
 
 ### 5. Images and corresponding probability that predicted Wrong
 <img width="989" alt="image" src="https://user-images.githubusercontent.com/33338015/172829172-d418fe80-124f-4f26-9f14-3cebd27e699f.png">
