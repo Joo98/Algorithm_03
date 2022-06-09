@@ -10,7 +10,7 @@
 <img width="828" alt="image" src="https://user-images.githubusercontent.com/33338015/172810708-1d3d6947-3d73-4a87-b758-fb0c21ec0b7a.png">
 
 ### 2. Training with Training loss
-<img width="974" alt="image" src="https://user-images.githubusercontent.com/33338015/172812383-7c98439c-c305-4fd8-a4d8-032e2589eb93.png">
+<img width="863" alt="image" src="https://user-images.githubusercontent.com/33338015/172831337-eb567b32-eaac-446e-9c3c-d7e500822f69.png">
 
 ### 3. Perform Test with Test data
 <img width="992" alt="image" src="https://user-images.githubusercontent.com/33338015/172812521-c84ec366-b6a8-4a03-8248-3e32dc01aed1.png">
@@ -57,5 +57,3 @@
 ### 5. Images and corresponding probability that predicted Wrong
 <img width="982" alt="image" src="https://user-images.githubusercontent.com/33338015/172829952-e14fd663-d1b6-47d3-8957-0dd56a957606.png">
 
-
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/33338015/172829856-6c51a3e7-bdef-4be8-b183-a9322be8d30a.png">
